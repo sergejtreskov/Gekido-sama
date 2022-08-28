@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gekido-sama
-- 👀 I’m interested in gamedev
-- 🌱 I’m currently learning in school)
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning in university
 - 💞️ I’m looking to collaborate on with interesting people
 - 📫 How to reach me:
 inst @sergejtreskov
